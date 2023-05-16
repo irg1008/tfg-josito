@@ -34,6 +34,9 @@ ANME se desarrolló utilizando Python, Flask, Jinja, Tailwind y Bootstrap.
 * Jinja: [jinja.palletsprojects.com](https://jinja.palletsprojects.com)
 * Tailwind: [tailwindcss.com](https://tailwindcss.com)
 * Bootstrap: [getbootstrap.com](https://getbootstrap.com)
+* Playwright: [playwright.dev](https://playwright.dev)
+  * Necesitamos instalar los navegadores: `playwright install`
+  * Ejecutamos los test con: `pytest`
 
 ## ✨ Funcionalidades
 
@@ -62,6 +65,7 @@ Para utilizar ANME, simplemente accede a la aplicación en la siguiente URL: [an
 * TicketMaster API: <https://developer.ticketmaster.com/>
 * TuTiempo API: <https://api.tutiempo.net/>
 * NewsData.io API: <https://newdata.io/>
+
 ## 📞 Soporte
 
 Para cualquier consulta o comentario, puedes ponerte en contacto con nosotros a través del correo electrónico: [jri1001@alu.ubu.es](https://jri1001@alu.ubu.es)
@@ -69,4 +73,3 @@ Para cualquier consulta o comentario, puedes ponerte en contacto con nosotros a 
 ## 📄 Licencia
 
 Este proyecto está bajo la licencia MIT.
-
